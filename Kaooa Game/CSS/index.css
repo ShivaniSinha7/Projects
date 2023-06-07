@@ -1,0 +1,67 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+.frontpage{
+    background-image: url(new.jpg);
+    background-size: cover;
+    /* background-color: black; */
+    height: 100vh;
+    width: 100%;
+    align-items:center;
+}
+
+h1{
+    font-weight: 1000;
+    text-align: center;
+}
+
+h2{
+    font-weight: 1000;
+    text-align: center;
+}
+
+button{
+    color: wheat;
+    background-color: rgb(15, 158, 15);
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    padding: 24px 80px 24px 65px ;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #006400;
+    border: 3px solid;
+    border-color: white;
+}
+
+.buttoncenter
+{
+    text-align: center;
+    padding-top: 100px;    
+}
+
+.h1class
+{
+    color: wheat;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.h2class
+{
+    color: rgb(253, 145, 5);
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 80px;
+}
+
+.h11{
+    margin: 0;
+}
